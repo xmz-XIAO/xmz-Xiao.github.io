@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://pcheng.xyz/sitemap.xml
+Allow: /
