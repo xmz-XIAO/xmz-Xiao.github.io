@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/03/20/hello-world/</loc>
+    <loc>https://xmz.plus/2020/03/20/first/</loc>
+    
+    <lastmod>2020-03-20T21:13:09.811Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xmz.plus/2020/03/20/hello-world/</loc>
     
     <lastmod>2020-03-20T07:45:28.558Z</lastmod>
     
