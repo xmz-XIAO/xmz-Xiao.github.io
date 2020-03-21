@@ -154,7 +154,7 @@ h1 span {
 	top: -2px
 }
 section {
-	background-color: #fff;
+	background-color: #E4E6E0;
 	position: relative;
 	padding-top: 60px;
 	z-index: 4;
@@ -724,7 +724,7 @@ html.sb-init.sb-active.sb-active-right #projects .filter-item div a {
 	opacity: 1;
 }
 .sb-slidebar {
-	background-color: #151515; /* Background colour. */
+	background-color: #EABA05; /* Background colour. */
 	color: #666; /* Text colour. */
 	font-weight: 700;
 	font-size: 14px;
@@ -3085,7 +3085,7 @@ button.send{
 ******************************************************* */
 footer {
 	padding:5% 0 0;
-	background:#151515;
+	background:rgb(255, 255, 255);
 	z-index: 9;
 	position: relative;
 }

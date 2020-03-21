@@ -140,7 +140,7 @@ h1 span {
 	top: -2px
 }
 section {
-	background-color: #CBD2D0;
+	background-color: #E4E6E0;
 	position: relative;
 	padding-top: 60px;
 	z-index: 4;
@@ -3071,7 +3071,7 @@ button.send{
 ******************************************************* */
 footer {
 	padding:5% 0 0;
-	background:#DDDBCB;
+	background:rgb(255, 255, 255);
 	z-index: 9;
 	position: relative;
 }
