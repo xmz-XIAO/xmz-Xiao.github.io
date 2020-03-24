@@ -3325,6 +3325,29 @@ footer .footer_bottom {
 .icon-github:before { content: "\e636"; }
 /*---------------- END ------------------------*/
 
-nav.pagination {
-	display: block;
+.gallery-container{
+    width: 100%;
+}
+
+/* Clearfix */
+.gallery-container:after {
+    content: " ";
+    visibility: hidden;
+    display: block;
+    height: 50px;
+    clear: both;
+}
+
+.gallery-container .picture-container{
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+
+.gallery-container .picture-container .img-thumbnail{
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
 }
